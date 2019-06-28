@@ -1,0 +1,160 @@
+package section2;
+
+import org.jointheleague.graphical.robot.Robot;
+
+public class hahahahhahhahahahhaaahahhhahahahhahhahahahahahahahahhahahahahahahhahahahahahahahhahahahahahahahahahhahahahahahahahahah {
+public static void main(String[] args) {
+	
+	Robot a=new Robot();
+	Robot aa=new Robot();
+	Robot aaa=new Robot();
+	Robot aaaa=new Robot();
+	Robot aaaaa=new Robot();
+	Robot aaaaaa=new Robot();
+	Robot aaaaaaa=new Robot();
+	Robot aaaaaaaa=new Robot();
+	a.setSpeed(10);
+	aa.setSpeed(10);
+	aaa.setSpeed(10);
+	aaaa.setSpeed(10);
+	aaaaa.setSpeed(10);
+	aaaaaa.setSpeed(10);
+	aaaaaaa.setSpeed(10);
+	aaaaaaaa.setSpeed(10);
+	a.penDown();
+	aa.penDown();
+	aaa.penDown();
+	aaaa.penDown();
+	aaaaa.penDown();
+	aaaaaa.penDown();
+	aaaaaaa.penDown();
+	aaaaaaaa.penDown();
+	a.setRandomPenColor();
+	aa.setRandomPenColor();
+	aaa.setRandomPenColor();
+	aaaa.setRandomPenColor();
+	aaaaa.setRandomPenColor();
+	aaaaaa.setRandomPenColor();
+	aaaaaaa.setRandomPenColor();
+	aaaaaaaa.setRandomPenColor();
+	aa.turn(45);
+	aaa.turn(90);
+	aaaa.turn(135);
+	aaaaa.turn(180);
+	aaaaaa.turn(225);
+	aaaaaaa.turn(270);
+	aaaaaaaa.turn(315);
+a.move(200);
+aa.move(200);
+aaa.move(200);
+aaaa.move(200);
+aaaaa.move(200);
+aaaaaa.move(200);
+aaaaaaa.move(200);
+aaaaaaaa.move(200);
+a.turn(90);
+aa.turn(90);
+aaa.turn(90);
+aaaa.turn(90);
+aaaaa.turn(90);
+aaaaaa.turn(90);
+aaaaaaa.turn(90);
+aaaaaaaa.turn(90);
+a.move(200);
+aa.move(200);
+aaa.move(200);
+aaaa.move(200);
+aaaaa.move(200);
+aaaaaa.move(200);
+aaaaaaa.move(200);
+aaaaaaaa.move(200);
+a.turn(45);
+aa.turn(45);
+aaa.turn(45);
+aaaa.turn(45);
+aaaaa.turn(45);
+aaaaaa.turn(45);
+aaaaaaa.turn(45);
+aaaaaaaa.turn(45);
+a.move(200);
+aa.move(200);
+aaa.move(200);
+aaaa.move(200);
+aaaaa.move(200);
+aaaaaa.move(200);
+aaaaaaa.move(200);
+aaaaaaaa.move(200);
+a.turn(45);
+aa.turn(45);
+aaa.turn(45);
+aaaa.turn(45);
+aaaaa.turn(45);
+aaaaaa.turn(45);
+aaaaaaa.turn(45);
+aaaaaaaa.turn(45);
+a.move(200);
+aa.move(200);
+aaa.move(200);
+aaaa.move(200);
+aaaaa.move(200);
+aaaaaa.move(200);
+aaaaaaa.move(200);
+aaaaaaaa.move(200);
+a.turn(45);
+aa.turn(45);
+aaa.turn(45);
+aaaa.turn(45);
+aaaaa.turn(45);
+aaaaaa.turn(45);
+aaaaaaa.turn(45);
+aaaaaaaa.turn(45);
+a.move(200);
+aa.move(200);
+aaa.move(200);
+aaaa.move(200);
+aaaaa.move(200);
+aaaaaa.move(200);
+aaaaaaa.move(200);
+aaaaaaaa.move(200);
+a.turn(45);
+aa.turn(45);
+aaa.turn(45);
+aaaa.turn(45);
+aaaaa.turn(45);
+aaaaaa.turn(45);
+aaaaaaa.turn(45);
+aaaaaaaa.turn(45);
+a.move(200);
+aa.move(200);
+aaa.move(200);
+aaaa.move(200);
+aaaaa.move(200);
+aaaaaa.move(200);
+aaaaaaa.move(200);
+aaaaaaaa.move(200);
+a.turn(90);
+aa.turn(90);
+aaa.turn(90);
+aaaa.turn(90);
+aaaaa.turn(90);
+aaaaaa.turn(90);
+aaaaaaa.turn(90);
+aaaaaaaa.turn(90);
+a.move(400);
+aa.move(400);
+aaa.move(400);
+aaaa.move(400);
+aaaaa.move(400);
+aaaaaa.move(400);
+aaaaaaa.move(400);
+aaaaaaaa.move(400);
+
+
+
+
+
+
+}
+}
+
+
